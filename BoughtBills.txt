@@ -1,0 +1,20 @@
+Bought bill 
+#3810 
+Total price : 80.0
+-----------------------------
+Bought bill 
+#3880 
+Total price : 89.0
+-----------------------------
+Bought bill 
+#3712 
+Total price : 119.0
+-----------------------------
+Bought bill 
+#3876 
+Total price : 189.0
+-----------------------------
+Bought bill 
+#3516 
+Total price : 153.0
+-----------------------------
